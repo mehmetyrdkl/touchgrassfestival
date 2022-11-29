@@ -1,6 +1,6 @@
 # fly.toml file generated for flytestfoofest on 2022-11-25T23:47:10+01:00
 
-app = "flytestfoofest"
+app = "touchgrassfestival"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
