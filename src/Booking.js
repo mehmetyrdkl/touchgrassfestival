@@ -7,31 +7,31 @@ class Booking {
     this.timeoutIds = [];
     this.areas = [
       {
-        area: "Svartheim",
+        area: "Minty Mountain",
         spots: 400,
         available: rndBetween(0, 400),
         direction: -1,
       },
       {
-        area: "Nilfheim",
+        area: "Cherry Camp",
         spots: 300,
         available: rndBetween(0, 300),
         direction: -1,
       },
       {
-        area: "Helheim",
+        area: "Licorice Lagoon",
         spots: 100,
         available: rndBetween(0, 100),
         direction: -1,
       },
       {
-        area: "Muspelheim",
+        area: "Blueberry Beach",
         spots: 200,
         available: rndBetween(0, 200),
         direction: -1,
       },
       {
-        area: "Alfheim",
+        area: "Watermelon Wonderland",
         spots: 250,
         available: rndBetween(0, 250),
         direction: -1,
